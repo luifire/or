@@ -1,8 +1,9 @@
-A 2D esoteric programming language. 
-It is similar to brainfuck but has a 2D memory and runs in 2D space.
-I created this 2008.
+A 2D esoteric programming language. <br>
+It is similar to brainfuck but has a 2D memory and runs in 2D space.<br>
+I created this in 2008.<br>
 
 This will multiply 5 and 6.
+
 
 +++++.(>)++++++.V   initialisieren
 V               <   auf 3. Speicherstelle
