@@ -1,4 +1,4 @@
-A 2D esoteric programming language. <br>
+A 2D esoteric programming language called 'or'. <br>
 It is similar to brainfuck but has a 2D memory and runs in 2D space.<br>
 I created this in 2008.<br>
 
